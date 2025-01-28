@@ -48,4 +48,4 @@ This project focuses on building an interactive analytics solution for **Bike St
 ## 🛠 How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Balaji-Sai-charan/BikeStores-Dashboard.git
+   git clone https://github.com/bhargavbendi/Bikestores-Dashboard
